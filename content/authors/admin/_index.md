@@ -31,7 +31,7 @@ education:
   - course: PhD, Chemical & Biological Engineering
     institution: Princeton University
     year: 2023
-  - course: BE, Chemical Engineering, Minor in Mathematics
+  - course: BE, Chemical Engineering, Mathematics Minor
     institution: Macaulay Honors College at the City University of New York
     year: 2017
 
