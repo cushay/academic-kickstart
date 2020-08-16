@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher Ushay
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Princeton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include elastic stuctures and interfacial flows.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Soft matter
+- Elasticity
+- Fluid mechanics
+- Interfacial tension
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Chemical & Biological Engineering
+    institution: Princeton University
+    year: Exp. 2023
+  - course: BE in Chemical Engineering, Minor in Mathematics
+    institution: Macaulay Honors College at the City University of New York
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cushay@princeton.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CMUshay
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=zEDX6jIAAAAJ&hl=en
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my website! I am a 3rd-year graduate student at Princeton University's Department of Chemical & Biological Engineering, where I work under Pierre-Thomas Brun in the Liquids & Elasticity Laboratory (LeLab). Here I study arrays of flexible structures, e.g. hairy surfaces, and how their mechanics couples with fluid flow, interfacial forces, and geometric factors. By iterating between theory, experiment, and computation, I aim to develop minimal models to better understand the nonlinear dynamics of these phenomena.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before coming to Princeton I earned my bachelor's degree in Chemical Engineering from the Macaulay Honors College at the City University of New York (CUNY), where I graduated as valedictorian of the Grove School of Engineering in 2017. I spent the following year working for Element, an NYC-based startup focused on using machine learning to develop a mobile platform for digital identity in developing economies. Outside of science, I am deeply interested in travel, music, language, and anything else that lets me learn more about the world around me.
