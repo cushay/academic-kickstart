@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Chemical & Biological Engineering
+  - course: PhD, Chemical & Biological Engineering
     institution: Princeton University
-    year: Exp. 2023
-  - course: BE in Chemical Engineering, Minor in Mathematics
+    year: 2023
+  - course: BE, Chemical Engineering, Minor in Mathematics
     institution: Macaulay Honors College at the City University of New York
     year: 2017
 
