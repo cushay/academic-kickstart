@@ -31,7 +31,7 @@ education:
   - course: PhD, Chemical & Biological Engineering
     institution: Princeton University
     year: 2023
-  - course: BE, Chemical Engineering, Mathematics Minor
+  - course: BE, Chemical Engineering
     institution: Macaulay Honors College at the City University of New York
     year: 2017
 
@@ -70,4 +70,4 @@ user_groups:
 
 Welcome to my website! I am a 3rd-year graduate student at Princeton University's Department of Chemical & Biological Engineering, where I work under Pierre-Thomas Brun in the Liquids & Elasticity Laboratory (LeLab). Here I study arrays of flexible structures, e.g. hairy surfaces, and how their mechanics couples with fluid flow, interfacial forces, and geometric factors. By iterating between theory, experiment, and computation, I aim to develop minimal models to better understand the nonlinear dynamics of these phenomena.
 
-Before coming to Princeton I earned my bachelor's degree in Chemical Engineering from the Macaulay Honors College at the City University of New York (CUNY), where I graduated as valedictorian of the Grove School of Engineering in 2017. I spent the following year working for Element, an NYC-based startup focused on using machine learning to develop a mobile platform for digital identity in developing economies. Outside of science, I am deeply interested in travel, music, language, and anything else that lets me learn more about the world around me.
+Before coming to Princeton I earned my bachelor's degree in Chemical Engineering with a minor in Mathematics from the Macaulay Honors College at the City University of New York (CUNY), where I graduated as valedictorian of the Grove School of Engineering in 2017. I spent the following year working for Element, an NYC-based startup focused on using machine learning to develop a mobile platform for digital identity in developing economies. Outside of science, I am deeply interested in travel, music, language, and anything else that lets me learn more about the world around me.
